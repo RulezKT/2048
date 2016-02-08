@@ -1,6 +1,6 @@
 # 2048
 
-Trying to rewrite it in Pure ES6
+Testing merging branches
 
 Switched back to master
 
